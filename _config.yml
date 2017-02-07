@@ -11,7 +11,7 @@ email: giancarlo dot garbagnati at gmail.com
 description: Dispatches
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "giancarlo-garbagnati.github.io" # the base hostname & protocol for your site
-twitter_username: @GianGarbagnati
+twitter_username: GianGarbagnati
 github_username:  giancarlo-garbagnati
 paginate: 5
 
