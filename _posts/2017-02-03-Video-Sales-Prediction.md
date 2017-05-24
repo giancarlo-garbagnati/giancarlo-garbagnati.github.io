@@ -15,7 +15,7 @@ Case Study on Supervised Regression Machine Learning.
 
 <!-- more -->
 
-For code examples, here's the repo: (https://github.com/giancarlo-garbagnati/homevideosalepredictor)
+For code examples, here's the repo: [https://github.com/giancarlo-garbagnati/homevideosalepredictor]
 
 # homevideosalepredictor
 Predicting home video sales using regression models  
