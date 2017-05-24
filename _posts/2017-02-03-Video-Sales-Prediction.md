@@ -5,13 +5,13 @@ date: 2017-02-03 22:04
 categories: ["project"]
 ---
 
-Case Study on Supervised Regression Machine Learning  
+Case Study on Supervised Regression Machine Learning.  
   
   
   
 
 
-  
+
 
 <!-- more -->
 
