@@ -8,9 +8,9 @@ permalink: /about/
 <p>Giancarlo Garbagnati is a Molecular Biologist turned Data Scientist<br>currently residing in the Bay Area.</p>
 <br>
 <br>
-  </div>
+<p> Contact him at giancarlo dot garbagnati at gmail dot com
+
 <p>  <div class="manual-content">
 
-</p>
 
 
