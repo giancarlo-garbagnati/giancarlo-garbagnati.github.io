@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Home Video Sale Predictor Project - Case Study on Supervised Regression Machine Learning"
+title: "Home Video Sale Predictor"
 date: 2017-02-03 22:04
 categories: ["project"]
 ---
 
-I recently tried my hand at building a web scraper to gather movie data and using that data to build a basic model to predict video sales. Let's see what happened.
+Case Study on Supervised Regression Machine Learning  
 
 <!-- more -->
+
+For code examples, here's the repo: (https://github.com/giancarlo-garbagnati/homevideosalepredictor)
 
 # homevideosalepredictor
 Predicting home video sales using regression models  
